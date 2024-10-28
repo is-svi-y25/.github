@@ -16,3 +16,7 @@
 ## Общий план проекта
 
 ![overview](overview.jpg)
+
+## Архитектура
+
+![container](container.png)
