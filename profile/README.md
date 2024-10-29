@@ -20,3 +20,5 @@
 ## Архитектура
 
 ![container](container.png)
+
+![deployment](deployment.png)
